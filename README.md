@@ -83,9 +83,7 @@ A service account is an account that isn't of a person, but of an application. Y
 "type": "service_account",
 "project_id": "...",
 "private_key_id": "...",
-"private_key": "-----BEGIN PRIVATE KEY-----
-....
-----END PRIVATE KEY-----\n",
+"private_key": "...",
 "client_email": "...",
 "client_id": "...",
 "auth_uri": "https://accounts.google.com/o/oauth2/auth",
